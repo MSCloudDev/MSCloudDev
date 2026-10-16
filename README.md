@@ -38,7 +38,7 @@ Building real-world cloud skills through AWS, Linux, and infrastructure practice
 
 ## 📫 Contact
 
-Email: mhmodshmsmm@gmail.com  
+Email: mhmodshmsln@gmail.com  
 Resume: https://drive.google.com/file/d/1anlA3HQCe7Yyo30ihJ-p-jEpveK9U1Bu/view
 
 ---
