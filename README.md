@@ -130,7 +130,7 @@ and fellow learners to exchange knowledge and collaborate on practical projects.
 
 📧 **Email:** mhmodshmsln@gmail.com
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1anlA3HQCe7Yyo30ihJ-p-jEpveK9U1Bu/view)
+📄 **Resume:** [View My Resume]([https://drive.google.com/file/d/1anlA3HQCe7Yyo30ihJ-p-jEpveK9U1Bu/view](https://drive.google.com/file/d/1eyZsTyJjrSMJZROsXRUZdf7m8ZFQyRl_/view?usp=drive_link))
 
 💻 **GitHub:** [MSCloudDev](https://github.com/MSCloudDev)
 
